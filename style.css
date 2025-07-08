@@ -1,8 +1,17 @@
 /* nav styles  */
-nav {
+nav{
     display: flex;
-    gap: ;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul {
+    display: flex;
     
+    
+}
+.dark-2{
+    color:#474747;
 }
 
 
@@ -19,3 +28,19 @@ nav {
  .mary-r {
     color: #FD6E0A;
 }
+nav ul li{
+    list-style: none;
+    margin: 51px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    
+/* for button */
+ .bu-all {
+    background-color:#FD6E0A ;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+ }
