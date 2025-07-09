@@ -159,3 +159,32 @@ nav a {
 .skill-discription{
     
 }
+/* RESUME */
+.summary-headline{
+    font-weight: bold;
+    font-size: 35PX;
+    color: #181818;
+    text-align: center;
+}
+   .resume-contener { 
+    display: flex;
+    gap: 30px;
+   
+    
+  }
+  .resume-button{
+     background-color:#FD6E0A ;
+    border-radius: 5px;
+    
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+   
+      color: #FFFFFF;
+     
+
+  }
+  .text-center{
+    text-align: center;
+    margin-top: 50px;
+  }
