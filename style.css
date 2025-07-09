@@ -188,3 +188,25 @@ nav a {
     text-align: center;
     margin-top: 50px;
   }
+  /* footer */
+  .footter-main{
+    display: flex;
+    padding: 130PX 200PX;
+    gap: 100px;
+  }
+  .form-data{
+
+  }
+  .footer-column{
+    width: 50%;
+  }
+  .footer input , footer input [textarea] ,footer input [email] {
+    height: 65px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    border: none;
+  }
